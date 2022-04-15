@@ -1,6 +1,6 @@
 // this makes a variable that selects the element
 var paragraph = document.getElementById("paragraph");
-// this is the function that logs a peice of text when my selected element is copied
+// this is the function that logs a piece of text when my selected element is copied
 function copyP() {
     console.log("It was copied!!! This function worked!!")
 }
